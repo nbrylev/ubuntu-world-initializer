@@ -15,7 +15,7 @@ apt install docker -y
 apt install nodejs -y
 
 #
-apt install wine64 -y
+#apt install wine-stable -y
 apt install snapd -y
 snap install webstorm --classic
 snap install sublime-text --classic

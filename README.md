@@ -1,4 +1,4 @@
-# ubuntu-world-initializer
+# world-initializer-ubuntu
 Some scripts to prepare a brand new ubuntu for work
 
 # Why?

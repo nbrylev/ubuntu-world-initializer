@@ -24,6 +24,7 @@ apt install zsh -y
 sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)" -y
 #apt install docker -y
 apt install nodejs -y
+apt install npm -y
 
 #
 #apt install wine-stable -y
